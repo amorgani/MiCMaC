@@ -6,7 +6,6 @@
 
 package wikiparser;
 
-import java.util.HashSet;
 import java.util.Set;
 
 /**
