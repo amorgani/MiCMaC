@@ -21,7 +21,7 @@ public class Wikiparser {
         // TODO code applicaPation logic here
       TxtFileReader readwriter = new TxtFileReader();
       System.out.println("Start parsing....");
-      readwriter.readfile("/Users/Dina/Downloads/outputICDWikiUnspecified.txt", "/Users/Dina/Downloads/");
+      readwriter.readfile("/Users/Dina/Downloads/OutputICDWiki2.txt", "/Users/Dina/Downloads/");
         
     }
     
